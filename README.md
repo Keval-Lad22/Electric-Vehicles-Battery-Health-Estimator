@@ -16,7 +16,4 @@ This project uses machine learning to predict the battery health of electric veh
 - R² Score
 - Live prediction from user input
 
-## ▶️ How to Run
-1. Install requirements:
-```bash
-pip install -r requirements.txt
+
